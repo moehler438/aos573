@@ -1,0 +1,25 @@
+name: aos573
+channels:
+  - defaults
+  - conda-forge
+  - anaconda-fusion
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - python
+  - jupyterlab
+  - matplotlib-inline
+  - metpy
+  - siphon
+  - scikit-learn
+  - ipympl
+  - hvplot
+  - plotly
+  - bokeh
+  - build
+  - hatchling
+  - twine
+  - pip
+  - pytest
+prefix: /Users/Hannah/anaconda3/envs/aos573
